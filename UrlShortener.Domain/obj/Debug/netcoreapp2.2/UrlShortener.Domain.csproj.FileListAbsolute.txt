@@ -2,8 +2,8 @@ C:\projects\urlshortener\UrlShortener.Domain\bin\Debug\netcoreapp2.2\UrlShortene
 C:\projects\urlshortener\UrlShortener.Domain\bin\Debug\netcoreapp2.2\UrlShortener.Domain.dll
 C:\projects\urlshortener\UrlShortener.Domain\bin\Debug\netcoreapp2.2\UrlShortener.Domain.pdb
 C:\projects\urlshortener\UrlShortener.Domain\obj\Debug\netcoreapp2.2\UrlShortener.Domain.csprojAssemblyReference.cache
-C:\projects\urlshortener\UrlShortener.Domain\obj\Debug\netcoreapp2.2\UrlShortener.Domain.csproj.CoreCompileInputs.cache
 C:\projects\urlshortener\UrlShortener.Domain\obj\Debug\netcoreapp2.2\UrlShortener.Domain.AssemblyInfoInputs.cache
 C:\projects\urlshortener\UrlShortener.Domain\obj\Debug\netcoreapp2.2\UrlShortener.Domain.AssemblyInfo.cs
 C:\projects\urlshortener\UrlShortener.Domain\obj\Debug\netcoreapp2.2\UrlShortener.Domain.dll
 C:\projects\urlshortener\UrlShortener.Domain\obj\Debug\netcoreapp2.2\UrlShortener.Domain.pdb
+C:\projects\urlshortener\UrlShortener.Domain\obj\Debug\netcoreapp2.2\UrlShortener.Domain.csproj.CoreCompileInputs.cache

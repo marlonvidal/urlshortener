@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KYJOplxcGz0tThCK4i/Zsg0gJ9ExncEXWg43JLjWPJ8lKw7NFRq+8cjeP9jS4vxg9Qwez63AICi2RAg7diVbiA==",
+  "dgSpecHash": "BZkyvicr0fqX6k27vws4SKI/vqikxIPUbkLFRWt7K1nXOMvf3w4mkC6TwVC5+N/vGBnUQF1KAMpbMaAArPl2hA==",
   "success": true,
   "projectFilePath": "C:\\projects\\urlshortener\\UrlShortener.Tests\\UrlShortener.Tests.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\marlo\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\marlo\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\marlo\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
+    "C:\\Users\\marlo\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\marlo\\.nuget\\packages\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",
     "C:\\Users\\marlo\\.nuget\\packages\\system.diagnostics.tools\\4.0.1\\system.diagnostics.tools.4.0.1.nupkg.sha512",
     "C:\\Users\\marlo\\.nuget\\packages\\system.dynamic.runtime\\4.0.11\\system.dynamic.runtime.4.0.11.nupkg.sha512",
