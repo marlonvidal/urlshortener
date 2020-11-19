@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marlo\\source\\repos\\UrlShortener\\UrlShortener\\UrlShortener.csproj": {}
+    "C:\\projects\\urlshortener\\UrlShortener\\UrlShortener.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marlo\\source\\repos\\UrlShortener\\UrlShortener\\UrlShortener.csproj": {
+    "C:\\projects\\urlshortener\\UrlShortener\\UrlShortener.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marlo\\source\\repos\\UrlShortener\\UrlShortener\\UrlShortener.csproj",
+        "projectUniqueName": "C:\\projects\\urlshortener\\UrlShortener\\UrlShortener.csproj",
         "projectName": "UrlShortener",
-        "projectPath": "C:\\Users\\marlo\\source\\repos\\UrlShortener\\UrlShortener\\UrlShortener.csproj",
+        "projectPath": "C:\\projects\\urlshortener\\UrlShortener\\UrlShortener.csproj",
         "packagesPath": "C:\\Users\\marlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marlo\\source\\repos\\UrlShortener\\UrlShortener\\obj\\",
+        "outputPath": "C:\\projects\\urlshortener\\UrlShortener\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

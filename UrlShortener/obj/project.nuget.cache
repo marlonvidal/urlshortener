@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "op3dTuASC9lPsPy3a7VEMyCGsDHYjmQCwk6DAiq3Hx2sVA43+xlrudpuoJ3AwjAksOA3lFt9mj+NgFJC2dJLfQ==",
+  "dgSpecHash": "i+pkBIFVE5+JneknDK92iq8JbR7NtMefV1h+B4vmQiAWqdcvf4EWJXEti97n+ICcF+b8Kg1FHvfqkw5vhbopcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marlo\\source\\repos\\UrlShortener\\UrlShortener\\UrlShortener.csproj",
+  "projectFilePath": "C:\\projects\\urlshortener\\UrlShortener\\UrlShortener.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marlo\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\marlo\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",

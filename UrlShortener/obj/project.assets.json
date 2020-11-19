@@ -12163,11 +12163,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marlo\\source\\repos\\UrlShortener\\UrlShortener\\UrlShortener.csproj",
-      "projectName": "UrlShortener",
-      "projectPath": "C:\\Users\\marlo\\source\\repos\\UrlShortener\\UrlShortener\\UrlShortener.csproj",
+      "projectUniqueName": "C:\\projects\\urlshortener\\UrlShortener\\UrlShortener.WebUI.csproj",
+      "projectName": "UrlShortener.WebUI",
+      "projectPath": "C:\\projects\\urlshortener\\UrlShortener\\UrlShortener.WebUI.csproj",
       "packagesPath": "C:\\Users\\marlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marlo\\source\\repos\\UrlShortener\\UrlShortener\\obj\\",
+      "outputPath": "C:\\projects\\urlshortener\\UrlShortener\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

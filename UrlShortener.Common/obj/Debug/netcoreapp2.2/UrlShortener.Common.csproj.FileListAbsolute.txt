@@ -1,0 +1,9 @@
+C:\projects\urlshortener\UrlShortener.Common\bin\Debug\netcoreapp2.2\UrlShortener.Common.deps.json
+C:\projects\urlshortener\UrlShortener.Common\bin\Debug\netcoreapp2.2\UrlShortener.Common.dll
+C:\projects\urlshortener\UrlShortener.Common\bin\Debug\netcoreapp2.2\UrlShortener.Common.pdb
+C:\projects\urlshortener\UrlShortener.Common\obj\Debug\netcoreapp2.2\UrlShortener.Common.csprojAssemblyReference.cache
+C:\projects\urlshortener\UrlShortener.Common\obj\Debug\netcoreapp2.2\UrlShortener.Common.csproj.CoreCompileInputs.cache
+C:\projects\urlshortener\UrlShortener.Common\obj\Debug\netcoreapp2.2\UrlShortener.Common.AssemblyInfoInputs.cache
+C:\projects\urlshortener\UrlShortener.Common\obj\Debug\netcoreapp2.2\UrlShortener.Common.AssemblyInfo.cs
+C:\projects\urlshortener\UrlShortener.Common\obj\Debug\netcoreapp2.2\UrlShortener.Common.dll
+C:\projects\urlshortener\UrlShortener.Common\obj\Debug\netcoreapp2.2\UrlShortener.Common.pdb

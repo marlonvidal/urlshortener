@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "UrlShortener.Service/1.0.0": {
+        "dependencies": {
+          "UrlShortener.DTO": "1.0.0",
+          "UrlShortener.Data": "1.0.0",
+          "UrlShortener.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UrlShortener.Service.dll": {}
+        }
+      },
+      "UrlShortener.Data/1.0.0": {
+        "dependencies": {
+          "UrlShortener.DTO": "1.0.0",
+          "UrlShortener.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UrlShortener.Data.dll": {}
+        }
+      },
+      "UrlShortener.Domain/1.0.0": {
+        "runtime": {
+          "UrlShortener.Domain.dll": {}
+        }
+      },
+      "UrlShortener.DTO/1.0.0": {
+        "runtime": {
+          "UrlShortener.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UrlShortener.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UrlShortener.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UrlShortener.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UrlShortener.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
