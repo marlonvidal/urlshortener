@@ -8,7 +8,14 @@ namespace UrlShortener.Data.Context
 {
     public class UrlShortenerDbContext : DbContext
     {
+        public UrlShortenerDbContext(DbContextOptions options) : base(options) { }
+
         public DbSet<Link> Links { get; set; }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            base.OnConfiguring(optionsBuilder);
+        }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
