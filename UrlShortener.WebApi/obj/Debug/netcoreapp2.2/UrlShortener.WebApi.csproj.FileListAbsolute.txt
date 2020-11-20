@@ -15,3 +15,4 @@ C:\projects\urlshortener\UrlShortener.WebApi\obj\Debug\netcoreapp2.2\UrlShortene
 C:\projects\urlshortener\UrlShortener.WebApi\obj\Debug\netcoreapp2.2\UrlShortener.WebApi.dll
 C:\projects\urlshortener\UrlShortener.WebApi\obj\Debug\netcoreapp2.2\UrlShortener.WebApi.pdb
 C:\projects\urlshortener\UrlShortener.WebApi\obj\Debug\netcoreapp2.2\UrlShortener.WebApi.genruntimeconfig.cache
+C:\projects\urlshortener\UrlShortener.WebApi\obj\Debug\netcoreapp2.2\UrlShortener.WebApi.csprojAssemblyReference.cache

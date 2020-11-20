@@ -12,3 +12,5 @@ C:\projects\urlshortener\UrlShortener.Data\bin\Debug\netcoreapp2.2\UrlShortener.
 C:\projects\urlshortener\UrlShortener.Data\bin\Debug\netcoreapp2.2\UrlShortener.DTO.pdb
 C:\projects\urlshortener\UrlShortener.Data\obj\Debug\netcoreapp2.2\UrlShortener.Data.csprojAssemblyReference.cache
 C:\projects\urlshortener\UrlShortener.Data\obj\Debug\netcoreapp2.2\UrlShortener.Data.csproj.CopyComplete
+C:\projects\urlshortener\UrlShortener.Data\bin\Debug\netcoreapp2.2\UrlShortener.Common.dll
+C:\projects\urlshortener\UrlShortener.Data\bin\Debug\netcoreapp2.2\UrlShortener.Common.pdb

@@ -1127,7 +1127,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
-          "System.ComponentModel.Annotations": "5.0.0"
+          "System.ComponentModel.Annotations": "5.0.0",
+          "UrlShortener.Common": "1.0.0"
         },
         "compile": {
           "bin/placeholder/UrlShortener.Domain.dll": {}

@@ -152,7 +152,11 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\projects\\urlshortener\\UrlShortener.Common\\UrlShortener.Common.csproj": {
+                "projectPath": "C:\\projects\\urlshortener\\UrlShortener.Common\\UrlShortener.Common.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

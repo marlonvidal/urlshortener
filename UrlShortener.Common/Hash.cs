@@ -6,22 +6,28 @@ namespace UrlShortener.Common
 {
     public class Hash
     {
-        public static string ComputeSha256Hash(string rawData)
+        public static string GetSha256HashString(string rawData)
         {
-            // Create a SHA256   
-            using (SHA256 sha256Hash = SHA256.Create())
-            {
-                // ComputeHash - returns byte array  
-                byte[] bytes = sha256Hash.ComputeHash(Encoding.UTF8.GetBytes(rawData));
+            if (string.IsNullOrEmpty(rawData))
+                return string.Empty;
 
-                // Convert byte array to a string   
-                StringBuilder builder = new StringBuilder();
-                for (int i = 0; i < bytes.Length; i++)
-                {
-                    builder.Append(bytes[i].ToString("x2"));
-                }
-                return builder.ToString();
-            }
+            // ComputeHash - returns byte array  
+            byte[] bytes = GetSha256Hash(rawData);
+
+            // Convert byte array to a string   
+            StringBuilder builder = new StringBuilder();
+            for (int i = 0; i < bytes.Length; i++)
+                builder.Append(bytes[i].ToString("x2"));
+
+            return builder.ToString();
+        }
+        public static byte[] GetSha256Hash(string rawData)
+        {
+            if (string.IsNullOrEmpty(rawData))
+                return null;
+
+            using (SHA256 sha256Hash = SHA256.Create())
+                return sha256Hash.ComputeHash(Encoding.UTF8.GetBytes(rawData));
         }
     }
 }

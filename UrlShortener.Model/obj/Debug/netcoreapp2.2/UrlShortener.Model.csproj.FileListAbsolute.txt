@@ -6,3 +6,4 @@ C:\projects\urlshortener\UrlShortener.Model\obj\Debug\netcoreapp2.2\UrlShortener
 C:\projects\urlshortener\UrlShortener.Model\obj\Debug\netcoreapp2.2\UrlShortener.Model.AssemblyInfo.cs
 C:\projects\urlshortener\UrlShortener.Model\obj\Debug\netcoreapp2.2\UrlShortener.Model.dll
 C:\projects\urlshortener\UrlShortener.Model\obj\Debug\netcoreapp2.2\UrlShortener.Model.pdb
+C:\projects\urlshortener\UrlShortener.Model\obj\Debug\netcoreapp2.2\UrlShortener.Model.csprojAssemblyReference.cache

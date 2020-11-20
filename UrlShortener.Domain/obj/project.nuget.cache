@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2J8EgpttvdEalWQA7DPLDkkf4fFBYZGinsB9ugD4bmyO7vGOFM3RhIB2810Vf5ybv36KMSd67iJf08AbYsiRZQ==",
+  "dgSpecHash": "WVoJLcy/lEkhafue6uXzdqC0GBuutDk49KGUaWUE3ymKzOj6HQ+euulazXpkPktvJA9X0iiXnPCZUg4VwTZ9rA==",
   "success": true,
   "projectFilePath": "C:\\projects\\urlshortener\\UrlShortener.Domain\\UrlShortener.Domain.csproj",
   "expectedPackageFiles": [

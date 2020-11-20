@@ -217,6 +217,16 @@
           "lib/netstandard2.0/System.ComponentModel.Annotations.dll": {}
         }
       },
+      "UrlShortener.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/UrlShortener.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UrlShortener.Common.dll": {}
+        }
+      },
       "UrlShortener.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
@@ -235,7 +245,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
-          "System.ComponentModel.Annotations": "5.0.0"
+          "System.ComponentModel.Annotations": "5.0.0",
+          "UrlShortener.Common": "1.0.0"
         },
         "compile": {
           "bin/placeholder/UrlShortener.Domain.dll": {}
@@ -816,6 +827,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "UrlShortener.Common/1.0.0": {
+      "type": "project",
+      "path": "../UrlShortener.Common/UrlShortener.Common.csproj",
+      "msbuildProject": "../UrlShortener.Common/UrlShortener.Common.csproj"
     },
     "UrlShortener.Data/1.0.0": {
       "type": "project",

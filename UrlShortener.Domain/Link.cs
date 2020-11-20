@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Runtime.InteropServices;
 using System.Text;
+using UrlShortener.Common;
 
 namespace UrlShortener.Domain
 {
@@ -12,9 +13,10 @@ namespace UrlShortener.Domain
 
         public DateTime CreatedDate { get; set; }
 
-        public string GetUrlHash()
+        public string ComputeShortenedUrl()
         {
-            return "";
+            var hashed = Hash.GetSha256Hash(URL);
+            return Convert.ToBase64String(hashed);
         }
     }
 }
