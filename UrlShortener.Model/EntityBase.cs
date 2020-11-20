@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
 
-namespace UrlShortener.Domain
+namespace UrlShortener.Model
 {
     public abstract class EntityBase
     {

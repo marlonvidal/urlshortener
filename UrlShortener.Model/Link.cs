@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace UrlShortener.Domain
+namespace UrlShortener.Model
 {
     public class Link : EntityBase
     {
