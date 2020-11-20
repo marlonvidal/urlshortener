@@ -8,8 +8,9 @@ namespace UrlShortener.Model
 {
     public class Link : EntityBase
     {
-        public string URL { get; set; }
-
-        public DateTime CreatedDate { get; set; }
+        public string OriginalURL { get; set; }
+        public string ShortenedURL { get; set; }
+        public DateTime? CreatedDate { get; set; }
+        public int TotalRedirects { get; set; }
     }
 }
