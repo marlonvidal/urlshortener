@@ -7,8 +7,12 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using UrlShortener.Data.Context;
+using UrlShortener.Data.Interfaces;
+using UrlShortener.Data.Repositories;
 
 namespace UrlShortener
 {
@@ -31,6 +35,13 @@ namespace UrlShortener
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
+            var config = new ConfigurationBuilder()
+                .AddJsonFile("appsettings.json", false, reloadOnChange: true)
+                .Build();
+
+            services.AddScoped<ILinkRepository, LinkRepository>();
+
+            services.AddDbContext<UrlShortenerDbContext>(options => options.UseSqlServer(config["ConnectionStrings:UrlShortener"]));
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }

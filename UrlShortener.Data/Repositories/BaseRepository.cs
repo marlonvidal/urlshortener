@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Remotion.Linq.Clauses;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +12,7 @@ using UrlShortener.Model;
 
 namespace UrlShortener.Data.Repositories
 {
-    public abstract class BaseRepository<T> : IBaseRepository<T> where T : EntityBase
+    public abstract class BaseRepository<T> : IBaseRepository<T>  where T : EntityBase
     {
         private readonly UrlShortenerDbContext _dbContext;
 
