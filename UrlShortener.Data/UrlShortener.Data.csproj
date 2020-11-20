@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\UrlShortener.Domain\UrlShortener.Domain.csproj" />
     <ProjectReference Include="..\UrlShortener.DTO\UrlShortener.DTO.csproj" />
   </ItemGroup>
 
