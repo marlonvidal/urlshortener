@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Text;
 using UrlShortener.Model;
 
-namespace UrlShortener.Data
+namespace UrlShortener.Data.Context
 {
     public class UrlShortenerDbContext : DbContext
     {
